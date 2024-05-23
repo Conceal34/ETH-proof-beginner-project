@@ -1,7 +1,7 @@
 # ETH-proof-beginner-project
 
-#Tokens
-REQUIREMENTS THAT NEEDS TO BE MET
+# Tokens
+REQUIREMENTS THAT NEEDS TO BE MET: 
     1. Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
     2. Your contract will have a mapping of addresses to balances (address => uint)
     3. You will have a mint function that takes two parameters: an address and a value. 
